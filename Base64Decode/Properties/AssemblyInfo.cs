@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("Base64Decode")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("George Eliot Hospital NHS Trust")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Base64Decode")]
-[assembly: AssemblyCopyright("Copyright © George Eliot Hospital NHS Trust 2018")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
